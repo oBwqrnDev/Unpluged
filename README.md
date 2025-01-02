@@ -1,3 +1,6 @@
+Here's a `README.md` version in Markdown format:
+
+```markdown
 # Unplugged
 
 Unplugged is an innovative, high-performance Windows optimization tool designed to enhance your system's speed, performance, and efficiency. Whether you're a gamer, developer, or someone who just wants a faster PC, Unplugged offers a wide range of features to customize and improve your Windows experience.
@@ -33,7 +36,7 @@ Unplugged is an innovative, high-performance Windows optimization tool designed 
 
 2. **Run the tool**:
    To start using the Unplugged optimization tool, run the script through the provided GUI or directly from the batch file:
-   - For Windows: Double-click `Unplugged.bat` to run the optimization tool with an interactive GUI.
+   - For Windows: Double-click `Unplugged.bat` to run the optimization tool with an interactive GUI
 
 ## Usage
 
@@ -69,7 +72,10 @@ Unplugged is a powerful tool for system optimization. It is recommended to creat
 ## Contact
 
 For any questions or issues, feel free to open an issue on the GitHub repository or contact the developers directly at:
-- Email: flqmze@gmail.com
-- GitHub: yourusername (https://github.com
+- Email: @
+- GitHub: yourusername (https://github.com/)
 
 **Unplugged**: Optimize your system to perform like never before!
+```
+
+Make sure to replace `yourusername` and `your-email@example.com` with your actual details.
